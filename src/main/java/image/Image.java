@@ -10,3 +10,11 @@ public interface Image {
     int getWidth();
     int getHeight();
 }
+
+public BruteRasterImage (Color,color, int width, int height){
+    public void createRepresentation()
+}
+
+public BruteRasterImage (Color [][] colors){
+
+}
